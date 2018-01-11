@@ -6,7 +6,7 @@ We are presenting a challenge for all the students of IIIT BBSR.
 
 var development = Do you have potential for developing a mobile app,a Web App or Implementation of Machine learning?
 
-if (development== true) {
+if (development == true) {
 
 # Let's begin
 
