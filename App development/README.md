@@ -1,6 +1,6 @@
 # Mobile App Development - points = 100
 
- You can develop app for any platform android,windows,ios
+ You can develop app for any platform(android,windows,ios).
  
 # Problem:- You have to develop an app which will broadcast Video from one android phone to another without the use of internet.
 
