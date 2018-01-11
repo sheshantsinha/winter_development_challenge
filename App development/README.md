@@ -1,6 +1,6 @@
 # App Development - points = 100
 
-Problem:- You have to develop an app app which will broadcast Video from one android phone to another without the use of internet.
+Problem:- You have to develop an app which will broadcast Video from one android phone to another without the use of internet.
 
 # Marking Scheme:-
 
