@@ -8,7 +8,7 @@
 
 Let's assume you have some images in your directory.
 
-# problem 1:- First you read faces from your webcam. Once found now you have to compare with the images with face from your 		    directory. If any face matched you just need to print his/her name.
+# problem 1:- First you read faces from your webcam. Once face/faces found then you have to compare with the images with face from your directory. If any face matched you just need to print his/her name.
 
 How to get bonus points?
 
