@@ -22,5 +22,11 @@ var development = Do you have potential for developing a mobile app,a Web App or
     function letsDevelop() {
 
     //We will give you multiple task. Out of which you have to choose one and start developing.
+    
+    superBonus()
 
+    }
+    
+    function superBonus() {
+    // If you implement machine learning in mobile apps or web app, you will get extra attention and points.
     }
