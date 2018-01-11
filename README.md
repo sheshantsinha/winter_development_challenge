@@ -8,19 +8,19 @@ var development = Do you have potential for developing a mobile app,a Web App or
 
     if (development == true) {
 
-     Let's begin
+     //Let's begin
 
     letsDevelop()
   
     } else {
  
-     Start learning and try it.
+     //Start learning and try it.
  
     }
 
 
     function letsDevelop() {
 
-    We will give you multiple task. Out of which you have to choose one and start developing.
+    //We will give you multiple task. Out of which you have to choose one and start developing.
 
     }
