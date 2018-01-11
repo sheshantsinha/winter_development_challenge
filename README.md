@@ -4,23 +4,23 @@
 # LET'S DEVELOP
 We are presenting a challenge for all the students of IIIT BBSR.
 
-  var development = Do you have potential for developing a mobile app,a Web App or Implementation of Machine learning?
+    var development = Do you have potential for developing a mobile app,a Web App or Implementation of Machine learning?
 
-  if (development == true) {
+    if (development == true) {
 
 # Let's begin
 
-  letsDevelop()
+    letsDevelop()
   
-   } else {
+    } else {
  
 # Start learning and try it.
  
-  }
+    }
 
 
-  function letsDevelop() {
+    function letsDevelop() {
 
     We will give you multiple task. Out of which you have to choose one and start developing.
 
-  }
+    }
