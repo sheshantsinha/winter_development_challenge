@@ -16,7 +16,7 @@ How to get bonus points?
 	   Suppose you capture an image in which a lion is sleeping. Then you print 'A lion is sleeping'.
 
 # problem 2:- You have to identify the name of food after capturing an image.
-! [alt text] (https://github.com/sheshantsinha/winter_development_challenge/blob/master/Machine%20learning/object-detection.png)
+![alt text](https://github.com/sheshantsinha/winter_development_challenge/blob/master/Machine%20learning/object-detection.png)
 
 How to get bonus points?
 
