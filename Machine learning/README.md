@@ -9,6 +9,7 @@
 Let's assume you have some images in your directory.
 
 # problem 1:- First you read faces from your webcam. Once face/faces found then you have to compare with the images with face from your directory. If any face matched you just need to print his/her name.
+![alt text](https://github.com/sheshantsinha/winter_development_challenge/blob/master/Machine%20learning/face.gif)
 
 How to get bonus points?
 
