@@ -4,7 +4,7 @@
 # LET'S DEVELOP
 We are presenting a challenge for all the students of IIIT BBSR.
 
-var development = Do you have potential to develop a (mobile app, Web App) or Hack a website or Implementation of Machine learning?
+var development = Do you have potential to develop a mobile app or Implementation of Machine learning?
 
     if (development == true) {
 
@@ -28,5 +28,5 @@ var development = Do you have potential to develop a (mobile app, Web App) or Ha
     }
     
     function superBonus() {
-    // If you implement machine learning in mobile apps or web app, you will get extra attention and points.
+    // If you implement machine learning in mobile apps, you will get extra attention and points.
     }
