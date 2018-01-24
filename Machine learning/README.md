@@ -16,12 +16,12 @@ How to get bonus points?
 	1) If you implement any algorithm, module to identify the situation appearing in that image.
 	   Suppose you capture an image in which a lion is sleeping. Then you print 'A lion is sleeping'.
 
-# problem 2:- You have to identify the name of food after capturing an image.
+# problem 2:- You have to identify the name of food from any video.
 ![alt text](https://github.com/sheshantsinha/winter_development_challenge/blob/master/Machine%20learning/object-detection.png)
 
 How to get bonus points?
 
-	1) If you recognise food from any video or live video.
+	1) If you show more detail of food.Exampple:- Indian, 150 calories,Mostly eaten by North Indian etc.
 
 # problem 3:- Summarize the story of a hollywood film. (Don't use the subscript provided in the video).
 
