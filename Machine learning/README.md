@@ -23,7 +23,7 @@ How to get bonus points?
 
 	1) If you show more detail of food.Exampple:- Indian, 150 calories,Mostly eaten by North Indian etc.
 
-# problem 3:- Summarize the story of a hollywood film. (Don't use the subscript provided in the video).
+# problem 3:- Summarize the story of a hollywood film. (Don't use subtittles).
 
 How to get bonus points?
 
