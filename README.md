@@ -1,4 +1,4 @@
-# winter_development_challenge - 2k18
+# winter development challenge - 2k18
 
 # PLACEMENT CELL, IIIT BHUBANESWAR
 # LET'S DEVELOP
