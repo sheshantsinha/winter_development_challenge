@@ -33,7 +33,7 @@ var development = Do you have potential to develop a mobile app or Implementatio
     }
     
      function developed() {
-    // You have to show the codes and how it is working to the placement cell.
+    // You have to show the codes and how it is working, to the placement cell.
     }
     
     // Deadline:- 22-Feb-2018
