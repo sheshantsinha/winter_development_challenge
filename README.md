@@ -32,7 +32,7 @@ var development = Do you have potential to develop a mobile app or Implementatio
     // If you implement machine learning in mobile apps, you will get extra attention and points.
     }
     
-     function developed() {
+    function developed() {
     // You have to show the codes and how it is working to the placement cell.
     }
     
