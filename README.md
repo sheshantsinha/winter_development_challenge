@@ -28,12 +28,12 @@ var development = Do you have potential to develop a mobile app or Implementatio
 
     }
     
-    function superBonus() {
-    // If you implement machine learning in mobile apps, you will get extra attention and points.
-    }
+     function superBonus() {
+        // If you implement machine learning in mobile apps, you will get extra attention and points.
+        }
     
-    function developed() {
-    // You have to show the codes and how it is working to the placement cell.
-    }
+        function developed() {
+        // You have to show the codes and how it is working to the placement cell.
+         }
     
-    // Deadline:- 22-Feb-2018
+         // Deadline:- 22-Feb-2018
